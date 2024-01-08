@@ -1,0 +1,39 @@
+.banner-main {
+    color: #FFF;
+    font-family: Merriweather;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../resources/Banner\ Image.png);
+    
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 50px auto 500px ;
+    width: 82%;
+    max-width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+   
+}
+
+.banner {
+    background-repeat: no-repeat;
+    background-position: center center;
+    align-items: center;
+
+
+}
+
+.banner-pera {
+    padding: 170px 500px 0;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    /* line-height: 0; */
+}
+
+.banner-heading {
+    padding: 0 460px 170px;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 80px;
+    margin-top: 0;
+
+}
